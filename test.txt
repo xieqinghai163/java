@@ -1,0 +1,10 @@
+ 驱动器 E 中的卷是 新加卷
+ 卷的序列号是 C491-D6B8
+
+ E:\git\test\java 的目录
+
+[.]                  [..]                 .gitattributes
+.gitignore           GuessTheValue.java   test.java
+test.txt             
+               5 个文件          5,738 字节
+               2 个目录 12,913,344,512 可用字节
